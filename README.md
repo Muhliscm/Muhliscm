@@ -24,9 +24,9 @@ Tools experienced in :
   * MS-SQL Server
   * IBM db2
 3. Ms office 
-  Advanced Excel
-  Power Point
-  Word
+  * Advanced Excel
+  * Power Point
+  * Word
 
 4. Bi Tools
   - Power Bi
