@@ -3,7 +3,7 @@ I am self learner and Cotributor mainly focus on Data Analyis, Data Science And 
 
 You can find my personal works in this git.
 
-- 📫 How to reach me: ...
+[![name](link to image on GH)](link to your URL)
 
 I have experience in end to end Data project devolepments includes
 
@@ -48,7 +48,9 @@ Tools experienced in :
  6. Cloud:
    - AWS
    - IBM Watson
-
+   - 
+### Certification 
+ IBM Professional Data Analyst Associate
 <!--
 **Muhliscm/Muhliscm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
