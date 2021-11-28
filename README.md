@@ -14,6 +14,9 @@ I have experience in end to end Data project devolepments includes
 7. Machine Learing model building
 8. Statistical analysis
 9. Creating reports and dashboard
+10. Object Detection and image processing
+11. NLP (Natural Language Processing)
+12. Advanced deep learning techniques
 
 
 Tools experienced in :
@@ -31,7 +34,17 @@ Tools experienced in :
 4. Bi Tools
   - Power Bi
   - Tableau
+  - Congos BI
   - SSIS
+
+5. Big data technologies
+  - Hadoop AWS EMR 
+  - Map reduce
+  - Spark
+  
+ 6. Cloud:
+   - AWS
+   - IBM Watson
 
 <!--
 **Muhliscm/Muhliscm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
