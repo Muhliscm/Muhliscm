@@ -3,7 +3,7 @@ I am self learner and Cotributor mainly focus on Data Analyis, Data Science And 
 
 You can find my personal works in this git.
 
-<a href="https://www.linkedin.com/in/muhliscm/"><img src="images/icons8-linkedin-240.png"  width="50" height="50"></img></a>
+<a href="https://www.linkedin.com/in/muhliscm/"><img src="images/icons8-linkedin-240.png"  width="50" height="50" align="right"></img></a>
  
 I have experience in end to end Data project devolepments includes
 
