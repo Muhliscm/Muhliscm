@@ -1,11 +1,12 @@
 ### Hello Guys, I am Muhlis 👋
-I am self learner and Cotributor mainly focus on Data Analyis, Data Science And Machine learning
+I am self learner and Cotributor mainly focus on Data Science And Machine learning
 
 You can find my personal works in this git.
 
-<img src="images/giphy.gif"  width="600" height="400" align=center></img>
+<img src="images/giphy.gif"  width="600" height="400" align="center"></img>
 
 <a href="https://www.linkedin.com/in/muhliscm/"><img src="images/icons8-linkedin-240.png" alt="LinkedIn Profile" width="50" height="50" align="right"></img></a>
+<p align="right">conntect</p>
  
 I have experience in end to end Data project devolepments includes
 
