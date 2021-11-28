@@ -6,7 +6,7 @@ You can find my personal works in this git.
 <img src="images/giphy.gif"  width="600" height="400" align="center"></img>
 
 <a href="https://www.linkedin.com/in/muhliscm/"><img src="images/icons8-linkedin-240.png" alt="LinkedIn Profile" width="50" height="50" align="right"></img></a>
-<p align="right">conntect</p>
+<p align="right">connect</p>
  
 I have experience in end to end Data project devolepments includes
 
