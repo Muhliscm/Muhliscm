@@ -5,7 +5,7 @@ You can find my personal works in this git.
 <img src = "images/icons8-linkedin-240.png" />
 (https://www.linkedin.com/in/muhliscm/)
 
-<a href=https://www.linkedin.com/in/muhliscm/"><img src="images/icons8-linkedin-240.png"></img></a>
+<a href="https://www.linkedin.com/in/muhliscm/"><img src="images/icons8-linkedin-240.png"></img></a>
  
 I have experience in end to end Data project devolepments includes
 
