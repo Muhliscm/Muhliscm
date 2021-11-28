@@ -3,7 +3,7 @@ I am self learner and Cotributor mainly focus on Data Analyis, Data Science And 
 
 You can find my personal works in this git.
 
-[![name](link to image on GH)](link to your URL)
+[![name]images/icons8-linkedin-240.png](link to your URL)
 
 I have experience in end to end Data project devolepments includes
 
