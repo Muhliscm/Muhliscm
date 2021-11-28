@@ -3,6 +3,8 @@ I am self learner and Cotributor mainly focus on Data Analyis, Data Science And 
 
 You can find my personal works in this git.
 
+- 📫 How to reach me: ...
+
 I have experience in end to end Data project devolepments includes
 
 1. Data Collection
@@ -17,6 +19,7 @@ I have experience in end to end Data project devolepments includes
 10. Object Detection and image processing
 11. NLP (Natural Language Processing)
 12. Advanced deep learning techniques
+13. Deployment
 
 
 Tools experienced in :
