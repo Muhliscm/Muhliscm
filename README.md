@@ -40,7 +40,7 @@ Tools experienced in and familiar with:
 
 1. Python 
 2. Java script and J query
-3.Front end : CSS, HTML, Bootstrap, React
+3. Front-end : CSS, HTML, Bootstrap, React
 4. Node.js express.js
 5. Git version controll
 6. APIs
