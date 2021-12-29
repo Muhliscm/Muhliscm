@@ -1,5 +1,5 @@
 ### Hello Guys, I am Muhlis 👋
-I am self learner and Cotributor mainly focus on Data Science And Machine learning
+I am self Full Stack Devolepr and Cotributor mainly focus on Data Science And Machine learning
 
 You can find my personal works in this git.
 
@@ -7,6 +7,17 @@ You can find my personal works in this git.
 
 <a href="https://www.linkedin.com/in/muhliscm/"><img src="images/icons8-linkedin-240.png" alt="LinkedIn Profile" width="50" height="50" align="right"></img></a>
 <p align="right">connect</p>
+
+I have good understanding full stack devolepment including
+
+Information Gathering,
+Planning,
+Ui/ ux Design,
+Content Writing and Assembly,
+Coding,
+Testing, Review and Launch,
+Maintenance.
+
  
 I have experience in end to end Data project devolepments includes
 
@@ -25,17 +36,27 @@ I have experience in end to end Data project devolepments includes
 13. Deployment
 
 
-Tools experienced in :
+Tools experienced in and familiar with:
 
 1. Python 
-2. SQl 
+2. Java script and J query
+3.Front end : CSS, HTML, Bootstrap, React, 
+4. Node.js express.js
+5. Git version controll
+6. APIs
+
+4. SQl  and Nosql
   * MySQL
   * MS-SQL Server
   * IBM db2
-3. Ms office 
+  * Mongo db
+  
+5. Ms office 
   * Advanced Excel
   * Power Point
   * Word
+
+
 
 4. Bi Tools
   - Power Bi
@@ -51,6 +72,7 @@ Tools experienced in :
  6. Cloud:
    - AWS
    - IBM Watson
+   - Heroku
    - 
 ### Certification 
  IBM Professional Data Analyst Associate
