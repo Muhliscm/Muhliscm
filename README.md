@@ -40,36 +40,36 @@ Tools experienced in and familiar with:
 
 1. Python 
 2. Java script and J query
-3.Front end : CSS, HTML, Bootstrap, React, 
+3.Front end : CSS, HTML, Bootstrap, React
 4. Node.js express.js
 5. Git version controll
 6. APIs
 
-4. SQl  and Nosql
+7. SQl  and Nosql
   * MySQL
   * MS-SQL Server
   * IBM db2
   * Mongo db
   
-5. Ms office 
+8. Ms office 
   * Advanced Excel
   * Power Point
   * Word
 
 
 
-4. Bi Tools
+9. Bi Tools
   - Power Bi
   - Tableau
   - Congos BI
   - SSIS
 
-5. Big data technologies
+10. Big data technologies
   - Hadoop AWS EMR 
   - Map reduce
   - Spark
   
- 6. Cloud:
+ 10. Cloud:
    - AWS
    - IBM Watson
    - Heroku
