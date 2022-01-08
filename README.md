@@ -9,9 +9,7 @@ You can find my personal works in this git.
 <p align="right">connect</p>
 
 
-   - 
-### Certification 
-IBM Professional Data Analyst Associate
+
 <!--
 **Muhliscm/Muhliscm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
