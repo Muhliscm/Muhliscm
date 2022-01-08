@@ -3,7 +3,7 @@ I am Full Stack Devolepr and Cotributor mainly focus on Data Science And Machine
 
 You can find my personal works in this git.
 
-<img src="images/giphy.gif" align=center width="600" height="400" ></img>
+<img src="images/ai.jpg" align=center width="600" height="400" ></img>
 
 <a href="https://www.linkedin.com/in/muhliscm/"><img src="images/icons8-linkedin-240.png" alt="LinkedIn Profile" width="50" height="50" align="right"></img></a>
 <p align="right">connect</p>
