@@ -11,14 +11,8 @@
 ![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-violet)
 ![PowerBI](https://img.shields.io/badge/PowerBI-MS-yellow)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Data Science](https://img.shields.io/badge/%20-%20Data%20Science-blueviolet?style=for-the-badge)
-![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-violet)
-![PowerBI](https://img.shields.io/badge/PowerBI-MS-yellow)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Data Science](https://img.shields.io/badge/%20-%20Data%20Science-blueviolet?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/%20-Machine%20Learning-important?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -27,7 +21,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Hello Guys, I am Muhlis 👋
 ##  Developer, and Data Scientist!!
