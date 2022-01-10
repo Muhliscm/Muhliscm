@@ -14,10 +14,10 @@ I am a Full Stack Developer and Cotributor mainly focus on Data Science And Mach
 - 👯 I’m looking to collaborate with other data geeks.😍
 -  I love to play football 🧡
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50">
+<img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50">
+<img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50">
+<img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="50">
 
 <!--
 **Muhliscm/Muhliscm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
