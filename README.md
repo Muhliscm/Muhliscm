@@ -1,5 +1,4 @@
 
-I am a Full Stack Developer and Cotributor mainly focus on Data Science And Machine learning
 
 
 <img src="images/ai.jpg" align=center width="600" height="400" ></img>
