@@ -1,5 +1,5 @@
 ### Hello Guys, I am Muhlis 👋
-I am Full Stack Developer and Cotributor mainly focus on Data Science And Machine learning
+I am a Full Stack Developer and Cotributor mainly focus on Data Science And Machine learning
 
 You can find my personal works in this git.
 
