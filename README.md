@@ -1,10 +1,10 @@
 
 
-
-<img src="images/ai.jpg" align=center width="600" height="400" ></img>
-
 <a href="https://www.linkedin.com/in/muhliscm/"><img src="images/icons8-linkedin-240.png" alt="LinkedIn Profile" width="50" height="50" align="right"></img></a>
 <p align="right">connect</p>
+<img src="images/ai.jpg" align=center width="600" height="400" ></img>
+
+
 
 ![Data Science](https://img.shields.io/badge/%20-%20Data%20Science-blueviolet?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/%20-Data%20Analysis-9cf?style=flat-square&logo=appveyor)
