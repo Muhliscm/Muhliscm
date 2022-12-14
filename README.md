@@ -24,7 +24,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Hello Guys, I am Muhlis 👋
-##  Developer, and Data Scien Pracitioner !!
+##  Developer, and Data Science Pracitioner !!
 
 - 🌱 Love to  learn Anything 😉
 - 👯  Curious Cat 😍
