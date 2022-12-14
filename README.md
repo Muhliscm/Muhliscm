@@ -24,23 +24,12 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Hello Guys, I am Muhlis 👋
-##  Developer, and Data Scientist!!
+##  Developer, and Data Scien Pracitioner !!
 
-- 🌱 I’m currently learning everything 😉
-- 👯 I’m looking to collaborate with other data geeks.😍
+- 🌱 Love to  learn Anything 😉
+- 👯  Curious Cat 😍
 -  I love to play football 🧡
-
-### Languages and Tools:
-
-<img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50">
-<img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50">
-<img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50">
-<img align="left" src="https://github.com/Muhliscm/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="50">
-<img align="left" src="https://github.com/Muhliscm/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="50">
-<img align="left" src="https://github.com/Muhliscm/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" height="50">
-<img align="left" src="https://github.com/Muhliscm/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" height="50">
-<img align="left" src="https://github.com/Muhliscm/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="50">
-<img align="left" src="https://github.com/Muhliscm/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50">
+-  Looking for collaboration. Please Connect 💬
 
 
 <!--
