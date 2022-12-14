@@ -43,10 +43,6 @@
 <img align="left" src="https://github.com/Muhliscm/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50">
 
 
-<img align="left" src="https://github.com/Muhliscm/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" height="50">
-<img align="left" src="https://github.com/Muhliscm/devicon/blob/master/icons/express/express-original-wordmark.svg" height="50">
-<img align="left" src="https://github.com/Muhliscm/devicon/blob/master/icons/react/react-original-wordmark.svg" height="50">
-<img align="left" src="https://github.com/Muhliscm/devicon/blob/master/icons/nodejs/nodejs-plain.svg" height="50">
 <!--
 **Muhliscm/Muhliscm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
